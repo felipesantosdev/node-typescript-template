@@ -17,7 +17,7 @@ yarn install
 ## Scripts
 
 ```python
-yarn build or npm run build - to generate a build folder.
+yarn build or npm run build - to generate a build.
 yarn dev:server or npm run dev:server - to start the server.
 ```
 
