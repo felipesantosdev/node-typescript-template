@@ -10,12 +10,12 @@ Open Terminal.
 
 Change the current working directory to the location where you want the cloned directory.
 
-run:
+**run:**
 ```python
 $ git clone https://github.com/felipesantosdev/node-typescript-template.git
 ```
 
-Press Enter to create your local clone.
+Press **Enter** to create your local clone.
 ```python
 $ git clone https://github.com/felipesantosdev/node-typescript-template.git              
 > Cloning into 'node-typescript-template'...
@@ -33,7 +33,7 @@ $ cd node-typescript-template
 
 ## Installing Dependencies
 
-Use the package manager of your choice and run:
+Use the package manager of your choice and **run**:
 
 ```python
 npm install
