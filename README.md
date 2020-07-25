@@ -26,7 +26,7 @@ $ git clone https://github.com/felipesantosdev/node-typescript-template.git
 > Unpacking objects: 100% (16/16), done.
 ```
 
-and enter the folder using
+and enter the folder using:
 ```python
 $ cd node-typescript-template
 ```
