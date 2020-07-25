@@ -17,13 +17,13 @@ $ git clone https://github.com/felipesantosdev/node-typescript-template.git
 
 Press **Enter** to create your local clone.
 ```python
-$ git clone https://github.com/felipesantosdev/node-typescript-template.git              
-> Cloning into 'node-typescript-template'...
-> remote: Enumerating objects: 16, done.
-> remote: Counting objects: 100% (16/16), done.
-> remote: Compressing objects: 100% (15/15), done.
-> remote: Total 16 (delta 5), reused 0 (delta 0), pack-reused 0
-> Unpacking objects: 100% (16/16), done.
+$ git clone https://github.com/felipesantosdev/node-typescript-template.git
+Cloning into 'node-typescript-template'...
+remote: Enumerating objects: 39, done.
+remote: Counting objects: 100% (39/39), done.
+remote: Compressing objects: 100% (37/37), done.
+remote: Total 39 (delta 15), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (39/39), done.
 ```
 
 and enter the folder using:
