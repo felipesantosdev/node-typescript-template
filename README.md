@@ -17,7 +17,6 @@ $ git clone https://github.com/felipesantosdev/node-typescript-template.git
 
 Press **Enter** to create your local clone.
 ```python
-$ git clone https://github.com/felipesantosdev/node-typescript-template.git
 Cloning into 'node-typescript-template'...
 remote: Enumerating objects: 39, done.
 remote: Counting objects: 100% (39/39), done.
